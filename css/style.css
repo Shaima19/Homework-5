@@ -1,0 +1,125 @@
+.blog_post {
+width: 460px;
+background-image: url(../css/image/wave.jpg);
+background-size: cover;
+background-position: center;
+color: rgb(7, 0, 0);
+font-family:  Helvetica ;
+padding: 15px 25px;
+box-sizing: border-box;
+border-radius: 10px;
+display: inline-block;
+margin-bottom: 30px;
+}
+
+.blog_post h1{
+    font-size: 25px;
+    text-align: center;
+}
+
+/* font-size * 1.5 */
+.blog_post p {
+    text-align: justify;
+    font-size: 18px;
+    line-height: 27px ;
+}
+.blog_post a{
+    color: beige;
+    text-decoration: none;
+    background-color: black;
+    padding: 15px 25px;
+    display: inline-block;
+transition:500ms ;
+}
+.blog_post a:hover{
+    margin-left: 20px;
+    background-color:lightblue;
+}
+
+.blog_post.blog_2 {
+    background-image: url(../css/image/amterdam.jpg);
+    backgroud-size:cover;
+    background-position:center; 
+    color: white;
+    font-family:  Calibri;
+ 
+    }
+
+.blog_post.blog_3{
+    background-image: url(../css/image/sunrise.jpg);
+  color: black;
+    font-family: Verdana;
+}
+
+.blog_post.blog_3 a:hover {
+background-color: lightpink;
+}
+
+.blog_post.blog_4 {
+    background-image: url(../css/image/books.jpg);
+    color: black;
+    font-family: Verdana;
+
+}
+.blog_post.blog_4 a:hover {
+    background-color: lightpink;
+    }
+
+.blog_post.blog_5 {
+    background-image: url(../css/image/butterfly.jpg);
+    color: rgb(250, 248, 248);
+    font-family: Verdana;
+
+}
+.blog_post.blog_5 a:hover {
+    background-color: lightpink;
+    }
+
+    .blog_post.blog_6 {
+        background-image: url(../css/image/magical\ fur.jpg);
+    }
+    .blog_post.blog_6 a:hover{
+        background-color: rgb(201, 44, 67);
+    }
+
+    .blog_post.blog_7 {
+        background-image: url(../css/image/loneliness.jpg);
+        font-family:  Calibri;
+        color: white;
+    }
+
+    .blog_post.blog_7 a:hover{
+        background-color: rgb(201, 44, 67);
+    }
+
+    .blog_post.blog_8 {
+        background-image: url(../css/image/beach.jpg);
+    }
+
+    .blog_post.blog_8 a:hover {
+        background-color: palevioletred;
+    }
+
+
+    .blog_post.blog_9 {
+        background-image: url(../css/image/london.jpg);
+        color: rgb(5, 5, 5);
+        font-family: Verdana;
+    }
+
+
+
+    .blog_post.blog_9 a:hover {
+
+ background-color: palevioletred;
+    }
+
+
+    .blog_post.blog_10{
+        background-image: url(../css/image/independent.jpg);
+    }
+    .blog_post.blog_10 a:hover {
+        background-color: darksalmon;
+    }
+
+
